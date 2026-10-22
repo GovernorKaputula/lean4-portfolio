@@ -8,7 +8,7 @@ A small portfolio of formal proofs and verified functional programs in Lean 4.
 - **Arithmetic:** recursive triangular numbers, a defining equation, and a natural-number induction proof.
 - **Verified programs:** a recursive list map with proofs of length preservation and identity.
 
-The examples use Lean core only and contain no `sorry`, `admit`, or custom axioms. They were prepared with AI assistance as introductory portfolio examples; they do not represent prior client work or independently assessed expertise.
+The examples use Lean core only and contain no `sorry`, `admit`, or custom axioms.
 
 ## Run
 
